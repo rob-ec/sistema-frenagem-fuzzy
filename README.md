@@ -4,6 +4,8 @@
 
 O projeto se trata de um sistema básico de frenagem utilizando [Lógica Fuzzy](https://pt.wikipedia.org/wiki/L%C3%B3gica_difusa) e foi criado no decorrer da disciplina de Inteligência Computacional do curso de Engenharia de Computação da [Universidade Federal do Ceará (Campus Sobral)](https://sobral.ufc.br/).
 
+Um relatório sobre o trabalho pode ser encontrado em [Relatório.pdf](Relato%CC%81rio.pdf)
+
 ## Execução
 O projeto foi criado utilizando o **MATLAB R2023b**.  
 _O arquivo principal do projeto é o [sistema_de_frenagem.m](sistema_de_frenagem.m)._
